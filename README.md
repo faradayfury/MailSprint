@@ -1,4 +1,4 @@
-# tldr-email browser extension
+# MailSprint browser extension
 
 This browser extension provides a TLDR (Too Long; Didn't Read) summary of emails using the ChatGPT API. The extension is designed to work with Chromium-based browsers, such as Google Chrome and Microsoft Edge.
 
