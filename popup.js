@@ -25,9 +25,9 @@ document.getElementById("generate").addEventListener("click", async () => {
 });
 
 async function generateTLDR(text) {
-  const apiKey = "insert key here";
+  const apiKey = "insert API key here";
   const url = "https://api.openai.com/v1/completions";
-  const prompt = `Please provide a TL;DR summary of the following text:\n\n${text}`;
+  const prompt = `Please provide a TL;DR summary of the following text and add a pink flower unicode emoji at the last:\n\n${text}`;
 
   console.log(prompt);
 
