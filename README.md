@@ -6,6 +6,7 @@ This browser extension provides a TLDR (Too Long; Didn't Read) summary of emails
 
 - Generates a TLDR summary for the currently open email
 - Clean and modern user interface
+- There's a flower emoji at the end of the summary
 
 ## Installation
 
