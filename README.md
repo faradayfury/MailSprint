@@ -21,7 +21,7 @@ This browser extension provides a TLDR (Too Long; Didn't Read) summary of emails
 ## Usage
 
 1. Open an email in your browser.
-2. Click the "Email TLDR" extension icon in your browser's toolbar.
+2. Click the "MailSprint" extension icon in your browser's toolbar.
 3. In the popup, click the "Generate TLDR" button.
 4. The extension will generate and display a TLDR summary of the email.
 
