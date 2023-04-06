@@ -28,3 +28,7 @@ This browser extension provides a TLDR (Too Long; Didn't Read) summary of emails
 
 - The extension uses the ChatGPT API, which requires an API key from OpenAI. Make sure to add your API key to the `popup.js` file.
 - This extension is designed for demonstration purposes. The email extraction and summary generation methods may not work with all email clients or formats.
+
+## Future improvements
+
+At present, the browser extension is capable of generating TLDR summaries of individual emails, which can save you time and help you stay on top of your inbox. However, we recognize that many email conversations involve multiple messages and threads, and that summarizing these conversations can be just as important. Therefore, one of our top priorities for future development is to enable the extension to summarize entire email threads.
